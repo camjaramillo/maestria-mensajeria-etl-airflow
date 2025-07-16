@@ -1,0 +1,6 @@
+etl_app/__pycache__/
+etl_app/.venv/
+etl_app/*.pyc
+etl_app/.env
+etl_app/src/logs/
+backups/
